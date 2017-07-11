@@ -1,10 +1,11 @@
 # ctv-mdsumner
 A placeholder for updates to R's CRAN Task Views (ctv)
 
+svn checkout svn+ssh://username@svn.r-forge.r-project.org/svnroot/ctv/
+
 
 # New spatio-temporal candidates
 
-svn checkout svn+ssh://mdsumner@svn.r-forge.r-project.org/svnroot/ctv/
 
 trajectory: 
 
