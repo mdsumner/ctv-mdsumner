@@ -2,7 +2,7 @@
 
 A placeholder for updates to R's CRAN Task Views (ctv). 
 
-If you'd like to suggest an update or addition, post in the [Issues](https://github.com/mdsumner/ctv-mdsumner)
+If you'd like to suggest an update or addition, post in the [Issues](https://github.com/mdsumner/ctv-mdsumner/issues)
 
 
 # Notes
