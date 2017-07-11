@@ -1,5 +1,10 @@
 # ctv-mdsumner
-A placeholder for updates to R's CRAN Task Views (ctv)
+
+A placeholder for updates to R's CRAN Task Views (ctv). 
+
+If you'd like to suggest an update or addition, post in the [Issues](https://github.com/mdsumner/ctv-mdsumner)
+
+
 
 svn checkout svn+ssh://username@svn.r-forge.r-project.org/svnroot/ctv/
 
