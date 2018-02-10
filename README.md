@@ -15,6 +15,29 @@ svn checkout svn+ssh://username@svn.r-forge.r-project.org/svnroot/ctv/
 
 trajectory: 
 
+smam
+
+bcpa
+
+ctmcmove
+
+SDLfilter
+
+amt
+
+rpostgisLT
+
+gazepath
+
+moveHMM
+
+HMMoce
+
+momentuHMM
+
+rsMove
+
+trackDem
 
 mousetrap: Process and Analyze Mouse-Tracking Data
 
